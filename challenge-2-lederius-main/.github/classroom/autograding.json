@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Baking Recipe",
+      "setup": "",
+      "run": "python -m unittest baking_test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
