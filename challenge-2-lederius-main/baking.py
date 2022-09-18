@@ -50,7 +50,7 @@ def favorite_bake():  # User Input/Type conversion
 
     # 3.1 Create a variable called `baked_good`, that saves the user's input to the question:
     # What is your favorite baked good?
-    baked_good = 'peach_cobbler'
+    baked_good = 'brownie'
     # 3.2 Create a second variable called `frequency` that asks the user:
     # Roughly how many times a month do you eat <baked_good>s? <-- use your `baked_good` variable in an f-string here
     frequency = input(f'Roughly how many times do you eat {baked_good}s?')
